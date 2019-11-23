@@ -19,3 +19,6 @@ Paper:A.Podobas,S.Matsuoka,Luk Wayne.Designing and accelerating spiking neural n
 Describes a new biologically plausible mechanism for generating intermediate-level visual representations using an unsupervised learning   scheme.
 https://github.com/roberthangu/snn_object_recognition  
 Paper:Masquelier, Timothée, Thorpe S J. Unsupervised Learning of Visual Features through Spike Timing Dependent Plasticity[J].PLoS     Computational Biology, 2007, 3(2):e31.  
+
+## others
+Paper：Schuman C D , Potok T E , Patton R M , et al. A Survey of Neuromorphic Computing and Neural Networks in Hardware
